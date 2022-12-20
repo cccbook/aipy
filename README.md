@@ -6,6 +6,9 @@
 開課教師       | [陳鍾誠](../../)
 程式語言       | Python
 難度           | 從最簡單開始，逐漸深入
-教材           | [課程地圖](map.md)
-程式           | https://github.com/cccschool/ai
+
+使用本課程資源請遵照 [授權聲明](LICENSE.md) !
+
+
+
 
